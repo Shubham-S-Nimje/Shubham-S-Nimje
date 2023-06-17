@@ -113,4 +113,5 @@ I have an experience of building, deploying and maintaining web applications wit
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Copyright © 2023 NIMJE
+Designed by <a href="https://shubham.nimje.co.in/" target="_blank">Shubham S Nimje</a></div>
