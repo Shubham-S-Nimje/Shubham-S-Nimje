@@ -3,7 +3,7 @@
 </div>  
   
 
-## Hey 👋, I'm Shubham Nimje!  
+# Hey 👋, I'm Shubham Nimje!  
   
 
 <a href="https://github.com/Shubham-S-Nimje" target="_blank">
@@ -32,6 +32,74 @@ I'm a passionate Frontend Developer 🚀and my field of interests are building n
 
 I have an experience of building, deploying and maintaining web applications with JavaScript, React Js and some other cool libraries and frameworks ✨  
   
+
+<br/>  
+
+
+## Popular repositories  
+<table><tr><td valign="top" width="50%">
+  
+## Amazon clone
+- Developed an Amazon clone using React.js and Bootstrap for front end.
+- Context API for storing data, firebase authentication to ensure user security .
+- Fake Store API to display products, crud crud for cart control.
+- React Router for page navigation , GitHub for version control, Firebase.
+- 🕒 (16 March 2023 - Present)
+- 🌏 URL [https://shubham-s-nimje.github.io/E-Commerce/](https://shubham-s-nimje.github.io/E-Commerce/)    
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://camo.githubusercontent.com/dc124fe74a13f6ca937479e80ee65632067691cc56abe82d766a3ab6301c90ef/68747470733a2f2f7368756268616d2e6e696d6a652e636f2e696e2f70332e6a7067" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+<br/>  
+
+<table><tr><td valign="top" width="50%">
+  
+## Mail Box
+- Developed a Mail Box client website using React.js library.
+- User can view total unread mail and receive, send mails to another register user.
+- Used Redux for efficient state management, GitHub for version control.
+- Firebase authentication to ensure user security and storing data.
+- 🕒 (13 April 2023 - Present)
+- 🌏 URL [https://shubham-s-nimje.github.io/Mail-Box-Client/](https://shubham-s-nimje.github.io/Mail-Box-Client/)    
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://camo.githubusercontent.com/c495cf824271f916cd064207e9b2966faf03057ce88400ed90823b0e0de144af/68747470733a2f2f7368756268616d2e6e696d6a652e636f2e696e2f70322e6a7067" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+<br/>  
+
+<table><tr><td valign="top" width="50%">
+  
+## Expense Tracker
+- Developed an expense tracker app using React.js library and Tailwind css.
+- User can add, delete, update and download expense with dark and light mode.
+- Redux for state management, GitHub for version control.
+- Firebase authentication to ensure user security and storing data.
+- 🕒 (02 April 2023 - Present)
+- 🌏 URL [https://shubham-s-nimje.github.io/Expense-Tracker-2/](https://shubham-s-nimje.github.io/Expense-Tracker-2/)    
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://camo.githubusercontent.com/82b43f81910b26ab3c7b32500edc8c5a8b61bc133abd6c722659ac05ae820661/68747470733a2f2f7368756268616d2e6e696d6a652e636f2e696e2f70352e6a7067" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
 
 <br/>  
 
@@ -85,32 +153,12 @@ I have an experience of building, deploying and maintaining web applications wit
 </div>  
 
 <br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Shubham-S-Nimje&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-S-Nimje&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
   
-
-<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Shubham-S-Nimje&&style=flat-square)  
   
 
 <br/>  
-
-
-<br />
 
 ----
 <div align="center">Copyright © 2023 NIMJE
