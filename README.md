@@ -45,8 +45,8 @@ I have an experience of building, deploying and maintaining web applications wit
 - Fake Store API to display products, crud crud for cart control.
 - React Router for page navigation , GitHub for version control, Firebase.
 - 🕒 (16 March 2023 - Present)
-- 🌏 URL [https://shubham-s-nimje.github.io/E-Commerce/](https://shubham-s-nimje.github.io/E-Commerce/)    
-
+- 🌏 URL: [Website link](https://shubham-s-nimje.github.io/E-Commerce/)    
+- 🔭 GitHub: [Check repository](https://github.com/Shubham-S-Nimje/E-Commerce) 
 
 </td><td valign="top" width="50%">
 
@@ -61,14 +61,15 @@ I have an experience of building, deploying and maintaining web applications wit
 
 <table><tr><td valign="top" width="50%">
   
-## Mail Box
+## Mail Box 
 - Developed a Mail Box client website using React.js library.
 - User can view total unread mail and receive, send mails to another register user.
 - Used Redux for efficient state management, GitHub for version control.
 - Firebase authentication to ensure user security and storing data.
 - 🕒 (13 April 2023 - Present)
-- 🌏 URL [https://shubham-s-nimje.github.io/Mail-Box-Client/](https://shubham-s-nimje.github.io/Mail-Box-Client/)    
-
+- 🌏 URL: [Website link](https://shubham-s-nimje.github.io/Mail-Box-Client/)    
+- 🔭 GitHub: [Check repository](https://github.com/Shubham-S-Nimje/Mail-Box-Client)
+  
 
 </td><td valign="top" width="50%">
 
@@ -89,7 +90,8 @@ I have an experience of building, deploying and maintaining web applications wit
 - Redux for state management, GitHub for version control.
 - Firebase authentication to ensure user security and storing data.
 - 🕒 (02 April 2023 - Present)
-- 🌏 URL [https://shubham-s-nimje.github.io/Expense-Tracker-2/](https://shubham-s-nimje.github.io/Expense-Tracker-2/)    
+- 🌏 URL: [Website link](https://shubham-s-nimje.github.io/Expense-Tracker-2/)    
+- 🔭 GitHub: [Check repository](https://github.com/Shubham-S-Nimje/Expense-Tracker-2)    
 
 
 </td><td valign="top" width="50%">
