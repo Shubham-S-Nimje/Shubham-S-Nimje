@@ -26,11 +26,11 @@
 
 
 ### LET ME INTRODUCE MYSELF  
-I'm a skilled front-end developer specializing in HTML, CSS, JavaScript, React JS, WordPress and many more...🎯.
+I'm a skilled Full Stack Software Developer🚀 specializing in JavaScript, ReactJS, Nodejs, wordpress and many more...🎯.
 
-I'm a passionate Frontend Developer 🚀and my field of interests are building new Web Technologies and Products..✨
+I'm a passionate Full Stack Software Developer and my field of interests are building new Web Technologies and Products..✨
 
-I have an experience of building, deploying and maintaining web applications with JavaScript, React Js and some other cool libraries and frameworks ✨  
+I have an experience of building, deploying and maintaining web applications with JavaScript, ReactJs, NodeJs and some other cool libraries and frameworks ✨  
   
 
 <br/>  
