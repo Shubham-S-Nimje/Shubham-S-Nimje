@@ -2,6 +2,22 @@
 
 # Hey 👋, I'm Shubham Nimje!  
   
+  
+
+### LET ME INTRODUCE MYSELF  
+I'm a skilled Full Stack Software Developer🚀 specializing in JavaScript, React.js, Next.js, Node.js, wordpress and many more...🎯.
+
+I'm a passionate Full Stack Software Developer and my field of interests are building new Web Technologies and Products..✨
+
+I have an experience of building, deploying and maintaining web applications with JavaScript, React.js, Next.js, Node.js and some other cool libraries and frameworks ✨  
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" align="center" style="width: 100%" />
+</div>
+
 
 <a href="https://github.com/Shubham-S-Nimje" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -18,92 +34,10 @@
 <a href="https://instagram.com/shubham_s_nimje" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  
-
-
-
-### LET ME INTRODUCE MYSELF  
-I'm a skilled Full Stack Software Developer🚀 specializing in JavaScript, ReactJS, Nodejs, wordpress and many more...🎯.
-
-I'm a passionate Full Stack Software Developer and my field of interests are building new Web Technologies and Products..✨
-
-I have an experience of building, deploying and maintaining web applications with JavaScript, ReactJs, NodeJs and some other cool libraries and frameworks ✨  
-  
-
-<br/>  
-
-
-## Popular repositories  
-<table><tr><td valign="top" width="50%">
-  
-## Amazon clone
-- Developed an Amazon clone using React.js and Bootstrap for front end.
-- Context API for storing data, firebase authentication to ensure user security .
-- Fake Store API to display products, crud crud for cart control.
-- React Router for page navigation , GitHub for version control, Firebase.
-- 🕒 (16 March 2023 - Present)
-- 🌏 URL: [Website link](https://shubham-s-nimje.github.io/E-Commerce/)    
-- 🔭 GitHub: [Check repository](https://github.com/Shubham-S-Nimje/E-Commerce) 
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://camo.githubusercontent.com/dc124fe74a13f6ca937479e80ee65632067691cc56abe82d766a3ab6301c90ef/68747470733a2f2f7368756268616d2e6e696d6a652e636f2e696e2f70332e6a7067" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-<table><tr><td valign="top" width="50%">
-  
-## Mail Box 
-- Developed a Mail Box client website using React.js library.
-- User can view total unread mail and receive, send mails to another register user.
-- Used Redux for efficient state management, GitHub for version control.
-- Firebase authentication to ensure user security and storing data.
-- 🕒 (13 April 2023 - Present)
-- 🌏 URL: [Website link](https://shubham-s-nimje.github.io/Mail-Box-Client/)    
-- 🔭 GitHub: [Check repository](https://github.com/Shubham-S-Nimje/Mail-Box-Client)
-  
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://camo.githubusercontent.com/c495cf824271f916cd064207e9b2966faf03057ce88400ed90823b0e0de144af/68747470733a2f2f7368756268616d2e6e696d6a652e636f2e696e2f70322e6a7067" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-<table><tr><td valign="top" width="50%">
-  
-## Expense Tracker
-- Developed an expense tracker app using React.js library and Tailwind css.
-- User can add, delete, update and download expense with dark and light mode.
-- Redux for state management, GitHub for version control.
-- Firebase authentication to ensure user security and storing data.
-- 🕒 (02 April 2023 - Present)
-- 🌏 URL: [Website link](https://shubham-s-nimje.github.io/Expense-Tracker-2/)    
-- 🔭 GitHub: [Check repository](https://github.com/Shubham-S-Nimje/Expense-Tracker-2)    
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://camo.githubusercontent.com/82b43f81910b26ab3c7b32500edc8c5a8b61bc133abd6c722659ac05ae820661/68747470733a2f2f7368756268616d2e6e696d6a652e636f2e696e2f70352e6a7067" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Rapidfire  
+
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Invitation card maker app](https://next-card-iota.vercel.app/)  
@@ -112,20 +46,12 @@ I have an experience of building, deploying and maintaining web applications wit
 - 🌱 I’m currently learning Next.js  
   
 
-- ❓ Ask me about anything related to front-end development and related technologies  
+- ❓ Ask me about anything related to full stack development and related technologies  
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+</table>  
 
 <br/>  
 
