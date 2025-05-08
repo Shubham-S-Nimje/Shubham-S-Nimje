@@ -19,7 +19,7 @@
 
 ###
 
-<table>
+<table align="center">
   <tr>
     <td>
     <h3 align="left">👩‍💻 About Me</h3>
