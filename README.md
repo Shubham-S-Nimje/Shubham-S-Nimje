@@ -19,21 +19,24 @@
 
 ###
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between; align-items: center;">
-  <div style="flex: 1; min-width: 500px;">
+<table>
+  <tr>
+    <td>
     <h3 align="left">👩‍💻 About Me</h3>
-    <p align="left">I'm a skilled Full Stack Software Developer 🚀</p>
-    <ul align="left">
-      <li>🔭 I'm currently working as a Front-End Developer</li>
-      <li>📚 I'm learning FastAPI</li>
-      <li>❓ Ask me anything related to full stack development and related technologies</li>
-      <li>⚡ Fun fact: I keep night shift mode turned on all the time</li>
-    </ul>
-  </div>
-  <div style="flex: 1; min-width: 100px; text-align: center;">
-    <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-  </div>
-</div>
+        <p align="left">I'm a skilled Full Stack Software Developer 🚀</p>
+        <ul align="left">
+          <li>🔭 I'm currently working as a Front-End Developer</li>
+          <li>📚 I'm learning FastAPI</li>
+          <li>❓ Ask me anything related to full stack development and related technologies</li>
+          <li>⚡ Fun fact: I keep night shift mode turned on all the time</li>
+        </ul>
+    </td>
+        <td align="center">
+          <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" />
+    </td>
+
+  </tr>
+</table>
 
 ###
 
@@ -142,6 +145,19 @@
   <img src="https://profile-counter.glitch.me/Shubham-S-Nimje/count.svg?"  />
 </div>
 
-<p align="center">Copyright © 2023 NIMJE Designed by Shubham S Nimje</p>
+###
+
+<h3 align="left">💻   Code Cycle :</h3>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
 ###
+
+![Profile views counter](https://komarev.com/ghpvc/?username=Shubham-S-Nimje&&style=flat-square)
+
+</div>
