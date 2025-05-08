@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif"  />
 </div>
 
 ###
@@ -19,11 +19,21 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm a skilled Full Stack Software Developer 🚀<br><br>- 🔭 I'm currently working as a Front-End Developer<br>- 📚 I'm learning FastAPI<br>- ❓ Ask me anything related to full stack development and related technologies<br>-⚡ Fun fact: I keep night shift mode turned on all the time</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; min-width: 500px;">
+    <h3 align="left">👩‍💻 About Me</h3>
+    <p align="left">I'm a skilled Full Stack Software Developer 🚀</p>
+    <ul align="left">
+      <li>🔭 I'm currently working as a Front-End Developer</li>
+      <li>📚 I'm learning FastAPI</li>
+      <li>❓ Ask me anything related to full stack development and related technologies</li>
+      <li>⚡ Fun fact: I keep night shift mode turned on all the time</li>
+    </ul>
+  </div>
+  <div style="flex: 1; min-width: 100px; text-align: center;">
+    <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  </div>
+</div>
 
 ###
 
@@ -131,12 +141,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Shubham-S-Nimje/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Shubham-S-Nimje/Shubham-S-Nimje/output/snake.svg" alt="Snake animation" />
-
-###
 
 <p align="center">Copyright © 2023 NIMJE Designed by Shubham S Nimje</p>
 
